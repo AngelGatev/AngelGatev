@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngelGatev
-- 👀 I’m interested in many thing and one of it is Java programming Janguage.
+- 👀 I’m interested in many things and one of it is Java programming Janguage.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any kind of projects.
 - 📫 How to reach me? - My e-mail is: angelgatev@gmail.com.
